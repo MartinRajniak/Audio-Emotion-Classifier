@@ -195,3 +195,7 @@ cython_debug/
 
 # Downloaded data
 data
+
+# MLFlow
+mlruns
+mlartifacts
