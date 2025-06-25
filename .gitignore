@@ -199,3 +199,6 @@ data
 # MLFlow
 mlruns
 mlartifacts
+
+# Temp
+checkpoint.pt
